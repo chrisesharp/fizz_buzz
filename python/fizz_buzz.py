@@ -13,5 +13,5 @@ def is_fizz(input):
 def is_buzz(input):
     return input % 5 == 0
 
-def fizz_buzz_runner(count):
-    return [fizz_buzz(number + 1) for number in range(count)]
+def fizz_buzz_runner(last_number):
+    return [fizz_buzz(number) for number in range(1, last_number + 1)]
