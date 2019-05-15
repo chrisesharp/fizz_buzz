@@ -1,0 +1,10 @@
+[
+  "test_fizz_buzz.py::test_one_gives_one",
+  "test_fizz_buzz.py::test_two_gives_two",
+  "test_fizz_buzz.py::test_three_gives_fizz",
+  "test_fizz_buzz.py::test_five_gives_buzz",
+  "test_fizz_buzz.py::test_15_gives_fizzbuzz",
+  "test_fizz_buzz.py::test_17_gives_17",
+  "test_fizz_buzz.py::test_21_gives_Fizz",
+  "test_fizz_buzz.py::test_0_to_16"
+]
