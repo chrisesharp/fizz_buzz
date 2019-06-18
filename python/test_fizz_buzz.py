@@ -1,4 +1,4 @@
-from .fizz_buzz import fizz_buzz, fizz_buzz_runner
+from fizz_buzz import fizz_buzz, fizz_buzz_runner
 
 def test_one_gives_one():
     assert fizz_buzz(1) == "1"
